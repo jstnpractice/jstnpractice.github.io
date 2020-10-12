@@ -1,0 +1,43 @@
+body {
+  background-color: #52575d;
+  font-family: "Poppins", sans-serif;
+}
+
+main {
+  text-align: center;
+  background-color: #f6f4e6;
+  width: 70%;
+  margin: 30px auto;
+  border-radius: 2%;
+}
+img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border: solid 10px #41444b;
+  border-radius: 2%;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+}
+
+ul li {
+  text-align: left;
+}
+
+a {
+  text-decoration: none;
+  color: #d7385e;
+  font-weight: bold;
+}
+
+#tribute-info p {
+  letter-spacing: 0.5px;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+}
